@@ -1,0 +1,28 @@
+{
+    "name": "bitcoin block extractor",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "json5": "*",
+        "async": "*"
+    },
+    "author": {
+        "name": "Matias Alejo Garcia",
+        "email": "ematiu (a) gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/matiu/blockextractor.git"
+    },
+    "homepage": "https://github.com/matiu/blockextractor.git",
+    "license": "MIT",
+    "keywords": [
+        "bitcoin",
+        "blocks",
+        "parsing blocks",
+        "bitcoind"
+    ],
+    "engines": {
+        "node": "*"
+    } 
+}
